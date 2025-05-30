@@ -714,5 +714,15 @@
       "prompt": "content"
     },
     "folder": "python"
+  },
+  "push_instruction_demo.json": {
+  "file_name": "push_instruction_demo.json",
+  "columns": {
+    "prompt": "instruction",
+    "query": "input",
+    "response": "output",
+    "system": "system",
+    "history": "history"
   }
+}
 }
